@@ -1,0 +1,39 @@
+ === USER OVERVIEW ===
+Total number of users registered: 5
+Total number of tasks: 6
+-------------------------------------------------------
+ === USER: admin ===
+Total tasks assigned: 1
+Total tasks assigned (%): 16.67
+Tasks assigned - completed (%): 0.0
+Tasks assigned - uncompleted (%): 100.0
+Tasks assigned - uncompleted and overdue (%): 100.0
+-------------------------------------------------------
+ === USER: kyle ===
+Total tasks assigned: 2
+Total tasks assigned (%): 33.33
+Tasks assigned - completed (%): 50.0
+Tasks assigned - uncompleted (%): 50.0
+Tasks assigned - uncompleted and overdue (%): 0.0
+-------------------------------------------------------
+ === USER: steve ===
+Total tasks assigned: 3
+Total tasks assigned (%): 50.0
+Tasks assigned - completed (%): 33.33
+Tasks assigned - uncompleted (%): 66.67
+Tasks assigned - uncompleted and overdue (%): 33.33
+-------------------------------------------------------
+ === USER: adam ===
+Total tasks assigned: 0
+Total tasks assigned (%): 0.0
+Tasks assigned - completed (%): 0
+Tasks assigned - uncompleted (%): 0
+Tasks assigned - uncompleted and overdue (%): 0
+-------------------------------------------------------
+ === USER: usagi ===
+Total tasks assigned: 0
+Total tasks assigned (%): 0.0
+Tasks assigned - completed (%): 0
+Tasks assigned - uncompleted (%): 0
+Tasks assigned - uncompleted and overdue (%): 0
+-------------------------------------------------------
